@@ -15,10 +15,8 @@ import Leave from './pages/Leave';
 import Expense from './pages/Expense';
 import EmpProfile from './pages/User';
 import PrivateRoute from './components/auth/PrivateRoute';
-import Travel from './pages/Travel';
-import Ticket from './pages/Ticket';
+
 import EmployeeProfile from './pages/EmployeeProfile';
-import Assets from './pages/Assets';
 import Visit from './pages/Dealer';
 
 function App() {

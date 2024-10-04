@@ -62,6 +62,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@csstools/normalize.css": "^12.1.1",
     "postcss-normalize": "^13.0.0"
   }
