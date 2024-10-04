@@ -2,6 +2,7 @@
   "name": "hrms-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://pushpratan.vercel.app/" ,
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
